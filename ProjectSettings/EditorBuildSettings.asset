@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/Menu.unity
+    guid: f487f72419747674eaba1fc7e81f1bed
+  - enabled: 1
+    path: Assets/Cenas/Jogo Multiplayer pc.unity
+    guid: cb9d8c6392492224998d1fd360858fd0
+  - enabled: 1
+    path: Assets/Cenas/Jogo.unity
+    guid: e6d722c5a7bd0cd40893bf4258e31465
+  - enabled: 1
+    path: Assets/Cenas/Jogo Multiplayer coop.unity
+    guid: db4a87597b00b7d41b6805fb8741131e
